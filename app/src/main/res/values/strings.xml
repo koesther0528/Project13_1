@@ -2,5 +2,7 @@
     <string name="app_name">Project13_1</string>
     <string name="btn_start">듣기</string>
     <string name="btn_stop">중지</string>
+    <string name="btn_parse">일시중지</string>
     <string name="text_music">실행중인 음악: </string>
+    <string name="text_time">진행 시간: </string>
 </resources>
